@@ -9,11 +9,13 @@
   
   $(selector).toggle(speed,callback);
   ```
-  speed:隐藏/显示的速度；slow/fast/毫秒数;
+  speed：隐藏/显示的速度；slow/fast/毫秒数;
   
-  callback:隐藏/显示完成后执行的函数名称。
+  callback：隐藏/显示完成后执行的函数名称。
   
   toggle()切换hide()和show()方法
+  
+  ***
   
 - jQuery淡入/淡出
 
