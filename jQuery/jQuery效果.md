@@ -15,8 +15,6 @@
   
   toggle()切换hide()和show()方法
   
-  ***
-  
 - jQuery淡入/淡出
 
   ```
